@@ -3,3 +3,6 @@ cpp/*
 !cpp/*.cpp
 !cpp/*.cxx
 !cpp/*Makefile
+
+# wzorce dla Pythona
+*.pyc

@@ -5,6 +5,15 @@
 
 using namespace std;
 
+void lover(char tekst[]){
+    //zamień duże litery namałe
+    //użyj pętli do odczytywania kolejnych znkaów
+    //sprawdź kod ASCII znaków
+    //jeżeli znak odpowiada dużej literze, podmień znak
+}
+
+
+
 void szyfruj(char tekst[], int klucz){
     int i = 0; // indeks
     klucz = klucz % 26;
