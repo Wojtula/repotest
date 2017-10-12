@@ -1,0 +1,13 @@
+"Urzędnik"	0,05
+"Sprzedawca"	0,13
+"Analityk"	0,12
+"Kierownik"	0,20
+"Informatyk"	0,18
+"Księgowy"	0,18
+"Prezes"	0,25
+"Zaopatrzeniowiec"	0,08
+"Kierowca"	0,10
+"Doradca"	0,09
+"Referent"	0,07
+"Operator"	0,06
+"Wiceprezes"	0,22
